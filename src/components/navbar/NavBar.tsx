@@ -47,7 +47,7 @@ const NavBar = ({
                     setSelectedPage={setSelectedPage}
                   />
                   <Links
-                    page="Pricing"
+                    page="Our Classes"
                     selectedPage={selectedPage}
                     setSelectedPage={setSelectedPage}
                   />

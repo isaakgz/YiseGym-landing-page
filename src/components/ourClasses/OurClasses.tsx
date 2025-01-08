@@ -51,7 +51,7 @@ interface OurClassesProps {
 
 const OurClasses = ({ setSelectedPage }: OurClassesProps) => {
   return (
-    <section className="w-full bg-primary-100 py-40" id="ourClasses">
+    <section className="w-full bg-primary-100 py-40" id="ourclasses">
       <motion.div
         onViewportEnter={() => setSelectedPage(SelectedPage.OurClasses)}
       >
